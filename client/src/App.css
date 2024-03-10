@@ -1,0 +1,14 @@
+a {
+    text-decoration: none;
+}
+
+.form__field {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 600px;
+    padding: 20px;
+    margin: 20px;
+}
